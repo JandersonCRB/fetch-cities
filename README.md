@@ -1,4 +1,4 @@
-Little script to fetch cities pro IBGE's API
+Little script to fetch cities from IBGE's API
 
 Navigate to the folder you want to have your JSONs files and run:
 
